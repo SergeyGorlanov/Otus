@@ -2,11 +2,13 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9.1">
 	<ConfigVersions>
 		<Metadata name="Catalog.Номенклатура" id="78ee1101-a905-4c45-9b53-5f38f5135f6c" configVersion="252269ee2fb2ec4f9c225a97b844136c00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="2c16c945-384f-4615-8460-d331be561a23" configVersion="dbaabc5ee508af4e832de6245359d8b600000000"/>
+		<Metadata name="Catalog.Сотрдуники" id="1a6dee55-783e-4f67-94e8-69be1042314f" configVersion="33c8f5bb2a8fc54cbd2aa8a54e80c6a400000000"/>
+		<Metadata name="Configuration.Конфигурация" id="2c16c945-384f-4615-8460-d331be561a23" configVersion="1b1c2c021c439c4b827385804f60534300000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="16175a33-2176-4c26-9f20-e63c3518fe81" configVersion="850238d6c325bb47b07ce6bfb13b24c700000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Номенклатура" id="759e3d9c-9efd-4a6a-b368-58fdd401b633"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары" id="b9d39729-25f9-4be6-9b44-9fcfe6893b72"/>
 		</Metadata>
+		<Metadata name="Document.РасходнаяНакладная" id="54cff32d-ce9b-479a-811d-f1eb33406265" configVersion="e48afc68318dca4cb545cd0fef63318000000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="20c7a484-d967-47e6-8970-2ade83774dc9" configVersion="e2a489d7767e744681102f71278eff4e00000000">
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Цена" id="0e7f36e9-3ba7-42d1-8ff0-8b6df834c925"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="b3b78c09-ba45-4eef-b0d7-f328dfc7e6d1"/>

@@ -180,7 +180,9 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Catalog>Номенклатура</Catalog>
+			<Catalog>Сотрдуники</Catalog>
 			<Document>ПриходнаяНакладная</Document>
+			<Document>РасходнаяНакладная</Document>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 		</ChildObjects>
 	</Configuration>
